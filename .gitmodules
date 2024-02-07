@@ -1,0 +1,6 @@
+[submodule "inet"]
+	path = inet
+	url = https://github.com/inet-framework/inet.git
+[submodule "Simu5G"]
+	path = Simu5G
+	url = git@github.com:inet-framework/Simu5G.git
